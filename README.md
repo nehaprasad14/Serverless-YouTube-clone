@@ -1,4 +1,4 @@
-# Serverless-YouTube-clone
+# Serverless YouTube-clone
 A serverless video sharing website.
 
 - User authentication using Auth0
